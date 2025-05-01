@@ -18,6 +18,7 @@ This project showcases a multi-agent reasoning system designed to simulate medic
 ## 🛠️ Installation
 
 ```bash
+  git clone https://github.com/koteshb25/AgenticMedicalAi.git 
 
 cd AgenticMedicalAi
 
